@@ -1,14 +1,6 @@
 # HOOKED
 
-Really good webhook spammer
+A webhook spammer/deleter
+multi threded with delay and more
 
-# still in development
-# still in development
-# still in development
-# still in development
-# still in development
-# still in development
-# still in development
-# still in development
-# still in development
 # still in development

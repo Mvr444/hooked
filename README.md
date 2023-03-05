@@ -1,2 +1,14 @@
-# hooked
-A webhook spammer with delay or multiple threads
+# HOOKED
+
+Really good webhook spammer
+
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
+# still in development
